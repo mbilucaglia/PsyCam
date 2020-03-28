@@ -7,7 +7,7 @@ figAxes = axes(fig);
 colormap(figAxes,"hsv");
 
 % Copy all UIAxes children, take over axes limits and aspect ratio.            
-allChildren = UIAxes.XAxis.Parent.Children;
+allChildren = UIAxes.Children;
 copyobj(allChildren, figAxes);
 figAxes.XLim = UIAxes.XLim;
 figAxes.YLim = UIAxes.YLim;
