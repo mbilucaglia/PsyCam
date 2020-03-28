@@ -2,7 +2,7 @@ function [] = save_UIaxes(UIAxes,colorbar_obj,filename)
 
 % Create a temporary figure with axes.
 fig = figure;
-%fig.Visible = 'off';
+fig.Visible = 'off';
 figAxes = axes(fig);
 colormap(figAxes,"hsv");
 
