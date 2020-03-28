@@ -1,0 +1,1 @@
+PsyCam accept as input images *.DNG format only. You can easly convert various raw format (e.g. *.NEF, *.CR2) to *.DNG using the tool Adobe DNG Converter, available for free at https://helpx.adobe.com/photoshop/using/adobe-dng-converter.html
