@@ -1,3 +1,5 @@
+*** README ***
+
 This repository contains the Matlab code for the paper Pederzoli, L., Bilucaglia, M., Prati, E., Matteoli, M., & Tressoldi, P. (2020, May 12). Modern Thoughtography: Mind Interaction at a distance with digital camera sensors: a pilot study. https://doi.org/10.31234/osf.io/edpt5 <https://doi.org/10.31234/osf.io/edpt5>. 
 
 PsyCam is a GUI (Graphica User Interface) to load raw image files (in *.DNG format), compute the binning and extract several metrics (both at "single image" and "paired image" levels).
