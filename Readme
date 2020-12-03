@@ -4,4 +4,4 @@ PsyCam is a GUI (Graphica User Interface) to load raw image files (in *.DNG form
 
 The "Matlab Files" folder contains the required files (*.m, *.mat and *.mlapp format) to execute PsyCam within the Matlab enviroment, while the "Compiled Files" folder contains the compiled version (*.exe format) to execute PsyCam as stand-alone software. Please note that in order to execute PsyCam within the Matlab Enviroment you must add the "Matlab Files" folder to the path, while to execute PsyCam as stand-alone software you must install the MRC (Matlab Runtime Compiler).
 
-The "Instruction" folder contain instruction documents (*.pdf format) to both convert any raw image to *.DNG format (instruction_conversion.pdf) ant to run PsyCam (instruction_PsyCam).
+The "Instruction" folder contain instruction documents (*.pdf format) to both convert any raw image to *.DNG format (instruction_Conversion.pdf) ant to run PsyCam (instruction_PsyCam).
